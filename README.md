@@ -6,6 +6,7 @@
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Souravraj1809/Souravraj1809/tree/master/0383-ransom-note) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Souravraj1809/Souravraj1809/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
 |  |
@@ -24,4 +25,12 @@
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Souravraj1809/Souravraj1809/tree/master/2487-remove-nodes-from-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Souravraj1809/Souravraj1809/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Souravraj1809/Souravraj1809/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
