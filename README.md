@@ -18,6 +18,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Souravraj1809/Souravraj1809/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Souravraj1809/Souravraj1809/tree/master/0206-reverse-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Souravraj1809/Souravraj1809/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
