@@ -20,6 +20,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Souravraj1809/Souravraj1809/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Souravraj1809/Souravraj1809/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Souravraj1809/Souravraj1809/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Souravraj1809/Souravraj1809/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Souravraj1809/Souravraj1809/tree/master/0206-reverse-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Souravraj1809/Souravraj1809/tree/master/2487-remove-nodes-from-linked-list) |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Souravraj1809/Souravraj1809/tree/master/0409-longest-palindrome) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Souravraj1809/Souravraj1809/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
