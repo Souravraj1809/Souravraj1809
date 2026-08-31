@@ -54,4 +54,12 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Souravraj1809/Souravraj1809/tree/master/0061-rotate-list) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Souravraj1809/Souravraj1809/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Souravraj1809/Souravraj1809/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
