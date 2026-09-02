@@ -59,6 +59,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Souravraj1809/Souravraj1809/tree/master/0704-binary-search) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Souravraj1809/Souravraj1809/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Souravraj1809/Souravraj1809/tree/master/0069-sqrtx) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Souravraj1809/Souravraj1809/tree/master/3875-construct-uniform-parity-array-i) |
 ## Newton's Method
 |  |
 | ------- |
