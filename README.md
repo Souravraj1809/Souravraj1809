@@ -38,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Souravraj1809/Souravraj1809/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Souravraj1809/Souravraj1809/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/Souravraj1809/Souravraj1809/tree/master/1189-maximum-number-of-balloons) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Souravraj1809/Souravraj1809/tree/master/0704-binary-search) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Souravraj1809/Souravraj1809/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -65,14 +67,24 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Souravraj1809/Souravraj1809/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Souravraj1809/Souravraj1809/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Souravraj1809/Souravraj1809/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0268-missing-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Souravraj1809/Souravraj1809/tree/master/3875-construct-uniform-parity-array-i) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Souravraj1809/Souravraj1809/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
