@@ -3,15 +3,17 @@ class Solution {
      int low =0;
      int n = arr.length;
      int high = n-1;
-     while(low < high){
+     int ans =0;
+     while(low <= high){
         int guess = low + (high - low )/2;
         if(arr[guess] < arr[guess + 1]){
             low =  guess + 1;
         }
        else{
-         high =  guess;
+         ans = guess;
+         high =  guess - 1;
        }
      }
-     return low;
+     return ans;
     }
 }
