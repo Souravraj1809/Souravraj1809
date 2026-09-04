@@ -63,6 +63,7 @@
 | [0704-binary-search](https://github.com/Souravraj1809/Souravraj1809/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Souravraj1809/Souravraj1809/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Souravraj1809/Souravraj1809/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0852-peak-index-in-a-mountain-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Souravraj1809/Souravraj1809/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
