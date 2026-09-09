@@ -83,6 +83,7 @@
 | [0069-sqrtx](https://github.com/Souravraj1809/Souravraj1809/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0268-missing-number) |
 | [3870-count-commas-in-range](https://github.com/Souravraj1809/Souravraj1809/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Souravraj1809/Souravraj1809/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Souravraj1809/Souravraj1809/tree/master/3875-construct-uniform-parity-array-i) |
 ## Newton's Method
 |  |
