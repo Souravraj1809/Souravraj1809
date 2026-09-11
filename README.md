@@ -31,6 +31,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Souravraj1809/Souravraj1809/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Souravraj1809/Souravraj1809/tree/master/0206-reverse-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Souravraj1809/Souravraj1809/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Souravraj1809/Souravraj1809/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0383-ransom-note](https://github.com/Souravraj1809/Souravraj1809/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Souravraj1809/Souravraj1809/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/Souravraj1809/Souravraj1809/tree/master/1189-maximum-number-of-balloons) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Souravraj1809/Souravraj1809/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0268-missing-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Souravraj1809/Souravraj1809/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0852-peak-index-in-a-mountain-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Souravraj1809/Souravraj1809/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Souravraj1809/Souravraj1809/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Souravraj1809/Souravraj1809/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Souravraj1809/Souravraj1809/tree/master/3904-smallest-stable-index-ii) |
@@ -106,4 +109,8 @@
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Souravraj1809/Souravraj1809/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Souravraj1809/Souravraj1809/tree/master/3904-smallest-stable-index-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Souravraj1809/Souravraj1809/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
