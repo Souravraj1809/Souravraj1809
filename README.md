@@ -80,6 +80,7 @@
 | [0069-sqrtx](https://github.com/Souravraj1809/Souravraj1809/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Souravraj1809/Souravraj1809/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Souravraj1809/Souravraj1809/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Souravraj1809/Souravraj1809/tree/master/3483-unique-3-digit-even-numbers) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Souravraj1809/Souravraj1809/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
