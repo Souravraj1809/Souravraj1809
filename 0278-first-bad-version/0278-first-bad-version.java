@@ -5,15 +5,17 @@ public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
         int left = 1;
         int right = n;
-        while(left < right){
+        int ans  = 1;
+        while(left <= right){
             int guess = left + (right - left) / 2;
             if(isBadVersion(guess)){
-                right = guess;
+                ans = guess;
+                right = guess-1;
             }
             else{
                 left = guess + 1;
             }
         }
-        return left;
+        return ans;
     }
 }
