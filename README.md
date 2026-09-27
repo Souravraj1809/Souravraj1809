@@ -69,6 +69,7 @@
 | [0268-missing-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Souravraj1809/Souravraj1809/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Souravraj1809/Souravraj1809/tree/master/0875-koko-eating-bananas) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Souravraj1809/Souravraj1809/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Souravraj1809/Souravraj1809/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Souravraj1809/Souravraj1809/tree/master/3903-smallest-stable-index-i) |
@@ -85,6 +86,7 @@
 | [0278-first-bad-version](https://github.com/Souravraj1809/Souravraj1809/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Souravraj1809/Souravraj1809/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Souravraj1809/Souravraj1809/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
