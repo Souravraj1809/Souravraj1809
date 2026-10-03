@@ -86,6 +86,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Souravraj1809/Souravraj1809/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Souravraj1809/Souravraj1809/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Souravraj1809/Souravraj1809/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Souravraj1809/Souravraj1809/tree/master/0875-koko-eating-bananas) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Souravraj1809/Souravraj1809/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Souravraj1809/Souravraj1809/tree/master/0374-guess-number-higher-or-lower) |
 ## Bracket Sequences
 |  |
 | ------- |
