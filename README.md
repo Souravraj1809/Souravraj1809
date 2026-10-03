@@ -62,19 +62,6 @@ Interactive visualization of popular sorting and searching algorithms.
 
 ---
 
-### 🔹 AI Grievance Navigator
-
-An AI-powered concept designed to simplify the process of filing public grievances by helping users understand, generate and navigate their complaints.
-
-**Tech:** React.js • APIs • AI • JavaScript
-
-- 🤖 AI-assisted grievance understanding
-- 🧭 Helps identify the appropriate department
-- 📝 Simplifies complaint generation
-- 🚀 Designed around a real-world problem
-
----
-
 ## 🧠 DSA Journey
 
 > **One problem at a time. One pattern at a time.**
