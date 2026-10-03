@@ -1,135 +1,129 @@
-# Hi! I am Sourav and I am inspiring tech learner that like to explore new tech.
+# Hi 👋, I'm Sourav Raj
 
+### Frontend Developer | React.js | Java | APIs | DSA
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/Souravraj1809/Souravraj1809/tree/master/0020-valid-parentheses) |
-| [0383-ransom-note](https://github.com/Souravraj1809/Souravraj1809/tree/master/0383-ransom-note) |
-| [0409-longest-palindrome](https://github.com/Souravraj1809/Souravraj1809/tree/master/0409-longest-palindrome) |
-| [1189-maximum-number-of-balloons](https://github.com/Souravraj1809/Souravraj1809/tree/master/1189-maximum-number-of-balloons) |
-| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Souravraj1809/Souravraj1809/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/Souravraj1809/Souravraj1809/tree/master/0020-valid-parentheses) |
-| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Souravraj1809/Souravraj1809/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
-| [2487-remove-nodes-from-linked-list](https://github.com/Souravraj1809/Souravraj1809/tree/master/2487-remove-nodes-from-linked-list) |
-## Linked List
-|  |
-| ------- |
-| [0024-swap-nodes-in-pairs](https://github.com/Souravraj1809/Souravraj1809/tree/master/0024-swap-nodes-in-pairs) |
-| [0025-reverse-nodes-in-k-group](https://github.com/Souravraj1809/Souravraj1809/tree/master/0025-reverse-nodes-in-k-group) |
-| [0061-rotate-list](https://github.com/Souravraj1809/Souravraj1809/tree/master/0061-rotate-list) |
-| [0092-reverse-linked-list-ii](https://github.com/Souravraj1809/Souravraj1809/tree/master/0092-reverse-linked-list-ii) |
-| [0206-reverse-linked-list](https://github.com/Souravraj1809/Souravraj1809/tree/master/0206-reverse-linked-list) |
-| [2487-remove-nodes-from-linked-list](https://github.com/Souravraj1809/Souravraj1809/tree/master/2487-remove-nodes-from-linked-list) |
-## Recursion
-|  |
-| ------- |
-| [0024-swap-nodes-in-pairs](https://github.com/Souravraj1809/Souravraj1809/tree/master/0024-swap-nodes-in-pairs) |
-| [0025-reverse-nodes-in-k-group](https://github.com/Souravraj1809/Souravraj1809/tree/master/0025-reverse-nodes-in-k-group) |
-| [0206-reverse-linked-list](https://github.com/Souravraj1809/Souravraj1809/tree/master/0206-reverse-linked-list) |
-| [2487-remove-nodes-from-linked-list](https://github.com/Souravraj1809/Souravraj1809/tree/master/2487-remove-nodes-from-linked-list) |
-| [3483-unique-3-digit-even-numbers](https://github.com/Souravraj1809/Souravraj1809/tree/master/3483-unique-3-digit-even-numbers) |
-## Monotonic Stack
-|  |
-| ------- |
-| [2487-remove-nodes-from-linked-list](https://github.com/Souravraj1809/Souravraj1809/tree/master/2487-remove-nodes-from-linked-list) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Souravraj1809/Souravraj1809/tree/master/0001-two-sum) |
-| [0268-missing-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0268-missing-number) |
-| [0383-ransom-note](https://github.com/Souravraj1809/Souravraj1809/tree/master/0383-ransom-note) |
-| [0409-longest-palindrome](https://github.com/Souravraj1809/Souravraj1809/tree/master/0409-longest-palindrome) |
-| [1189-maximum-number-of-balloons](https://github.com/Souravraj1809/Souravraj1809/tree/master/1189-maximum-number-of-balloons) |
-| [3483-unique-3-digit-even-numbers](https://github.com/Souravraj1809/Souravraj1809/tree/master/3483-unique-3-digit-even-numbers) |
-## Counting
-|  |
-| ------- |
-| [0383-ransom-note](https://github.com/Souravraj1809/Souravraj1809/tree/master/0383-ransom-note) |
-| [1189-maximum-number-of-balloons](https://github.com/Souravraj1809/Souravraj1809/tree/master/1189-maximum-number-of-balloons) |
-## Greedy
-|  |
-| ------- |
-| [0409-longest-palindrome](https://github.com/Souravraj1809/Souravraj1809/tree/master/0409-longest-palindrome) |
-## Two Pointers
-|  |
-| ------- |
-| [0061-rotate-list](https://github.com/Souravraj1809/Souravraj1809/tree/master/0061-rotate-list) |
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Souravraj1809/Souravraj1809/tree/master/0001-two-sum) |
-| [0033-search-in-rotated-sorted-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0033-search-in-rotated-sorted-array) |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0035-search-insert-position](https://github.com/Souravraj1809/Souravraj1809/tree/master/0035-search-insert-position) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-| [0268-missing-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0268-missing-number) |
-| [0704-binary-search](https://github.com/Souravraj1809/Souravraj1809/tree/master/0704-binary-search) |
-| [0852-peak-index-in-a-mountain-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0852-peak-index-in-a-mountain-array) |
-| [0875-koko-eating-bananas](https://github.com/Souravraj1809/Souravraj1809/tree/master/0875-koko-eating-bananas) |
-| [3483-unique-3-digit-even-numbers](https://github.com/Souravraj1809/Souravraj1809/tree/master/3483-unique-3-digit-even-numbers) |
-| [3875-construct-uniform-parity-array-i](https://github.com/Souravraj1809/Souravraj1809/tree/master/3875-construct-uniform-parity-array-i) |
-| [3903-smallest-stable-index-i](https://github.com/Souravraj1809/Souravraj1809/tree/master/3903-smallest-stable-index-i) |
-| [3904-smallest-stable-index-ii](https://github.com/Souravraj1809/Souravraj1809/tree/master/3904-smallest-stable-index-ii) |
-## Binary Search
-|  |
-| ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0033-search-in-rotated-sorted-array) |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0035-search-insert-position](https://github.com/Souravraj1809/Souravraj1809/tree/master/0035-search-insert-position) |
-| [0069-sqrtx](https://github.com/Souravraj1809/Souravraj1809/tree/master/0069-sqrtx) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-| [0268-missing-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0268-missing-number) |
-| [0278-first-bad-version](https://github.com/Souravraj1809/Souravraj1809/tree/master/0278-first-bad-version) |
-| [0374-guess-number-higher-or-lower](https://github.com/Souravraj1809/Souravraj1809/tree/master/0374-guess-number-higher-or-lower) |
-| [0704-binary-search](https://github.com/Souravraj1809/Souravraj1809/tree/master/0704-binary-search) |
-| [0852-peak-index-in-a-mountain-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0852-peak-index-in-a-mountain-array) |
-| [0875-koko-eating-bananas](https://github.com/Souravraj1809/Souravraj1809/tree/master/0875-koko-eating-bananas) |
-## Math
-|  |
-| ------- |
-| [0069-sqrtx](https://github.com/Souravraj1809/Souravraj1809/tree/master/0069-sqrtx) |
-| [0268-missing-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0268-missing-number) |
-| [3870-count-commas-in-range](https://github.com/Souravraj1809/Souravraj1809/tree/master/3870-count-commas-in-range) |
-| [3871-count-commas-in-range-ii](https://github.com/Souravraj1809/Souravraj1809/tree/master/3871-count-commas-in-range-ii) |
-| [3875-construct-uniform-parity-array-i](https://github.com/Souravraj1809/Souravraj1809/tree/master/3875-construct-uniform-parity-array-i) |
-## Newton's Method
-|  |
-| ------- |
-| [0069-sqrtx](https://github.com/Souravraj1809/Souravraj1809/tree/master/0069-sqrtx) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0268-missing-number) |
-## Sorting
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0268-missing-number) |
-## Ternary Search
-|  |
-| ------- |
-| [0852-peak-index-in-a-mountain-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/0852-peak-index-in-a-mountain-array) |
-## Prefix Sum
-|  |
-| ------- |
-| [3903-smallest-stable-index-i](https://github.com/Souravraj1809/Souravraj1809/tree/master/3903-smallest-stable-index-i) |
-| [3904-smallest-stable-index-ii](https://github.com/Souravraj1809/Souravraj1809/tree/master/3904-smallest-stable-index-ii) |
-## Enumeration
-|  |
-| ------- |
-| [3483-unique-3-digit-even-numbers](https://github.com/Souravraj1809/Souravraj1809/tree/master/3483-unique-3-digit-even-numbers) |
-## Interactive
-|  |
-| ------- |
-| [0278-first-bad-version](https://github.com/Souravraj1809/Souravraj1809/tree/master/0278-first-bad-version) |
-| [0374-guess-number-higher-or-lower](https://github.com/Souravraj1809/Souravraj1809/tree/master/0374-guess-number-higher-or-lower) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/Souravraj1809/Souravraj1809/tree/master/0020-valid-parentheses) |
-<!---LeetCode Topics End-->
+🎓 Computer Science Engineering student at **NMIT, Bengaluru**  
+💻 Building clean and interactive web experiences with **React.js**  
+🔗 Working with **REST APIs and API integration**  
+☕ Strengthening my **Java & Data Structures and Algorithms** skills  
+🚀 Interested in building practical projects that solve real-world problems
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 Currently working on **frontend and API-based projects**
+- 🌱 Learning **Java, DSA, REST APIs and backend fundamentals**
+- ⚛️ Comfortable with **HTML, CSS, JavaScript and React.js**
+- 🧠 Practicing **Data Structures & Algorithms in Java**
+- 🛠️ Interested in building useful, scalable and user-friendly applications
+- 🎯 Goal: Become a strong **Software Engineer with a focus on frontend development**
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### APIs & Tools
+<p>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Algorithm Visualizer
+
+Interactive visualization of popular sorting and searching algorithms.
+
+**Tech:** HTML • CSS • JavaScript
+
+- 📊 Visualizes algorithms step-by-step
+- ⚡ Helps understand algorithm behavior
+- 🎯 Designed for students learning DSA
+
+🔗 [View Project](https://github.com/Souravraj1809/Algorithm-Visualizer)
+
+---
+
+### 🔹 AI Grievance Navigator
+
+An AI-powered concept designed to simplify the process of filing public grievances by helping users understand, generate and navigate their complaints.
+
+**Tech:** React.js • APIs • AI • JavaScript
+
+- 🤖 AI-assisted grievance understanding
+- 🧭 Helps identify the appropriate department
+- 📝 Simplifies complaint generation
+- 🚀 Designed around a real-world problem
+
+---
+
+## 🧠 DSA Journey
+
+> **One problem at a time. One pattern at a time.**
+
+Consistently solving **Data Structures & Algorithms problems in Java**, with a focus on understanding problem-solving patterns, improving **time & space complexity**, and writing clean, optimized solutions.
+
+🔗 **[View my LeetCode Profile](https://leetcode.com/u/Sourav_1809/)**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Souravraj1809&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravraj1809&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+```text
+React.js
+   ↓
+REST APIs & API Integration
+   ↓
+Java
+   ↓
+Data Structures & Algorithms
+   ↓
+Backend Fundamentals
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://github.com/Souravraj1809">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Sourav_1809/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+### 💡 *Build. Learn. Solve. Repeat.*
