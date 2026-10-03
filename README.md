@@ -83,14 +83,6 @@ Consistently solving **Data Structures & Algorithms problems in Java**, with a f
 
 🔗 **[View my LeetCode Profile](https://leetcode.com/u/Sourav_1809/)**
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Souravraj1809&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravraj1809&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ---
 
