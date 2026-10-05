@@ -117,4 +117,9 @@ Backend Fundamentals
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Souravraj1809/Souravraj1809/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/Souravraj1809/Souravraj1809/tree/master/0367-valid-perfect-square) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Souravraj1809/Souravraj1809/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
