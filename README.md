@@ -112,14 +112,20 @@ Backend Fundamentals
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Souravraj1809/Souravraj1809/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Souravraj1809/Souravraj1809/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/Souravraj1809/Souravraj1809/tree/master/0367-valid-perfect-square) |
 ## Math
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Souravraj1809/Souravraj1809/tree/master/0367-valid-perfect-square) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
