@@ -113,6 +113,7 @@ Backend Fundamentals
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Souravraj1809/Souravraj1809/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Souravraj1809/Souravraj1809/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
@@ -128,4 +129,8 @@ Backend Fundamentals
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0074-search-a-2d-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Souravraj1809/Souravraj1809/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
