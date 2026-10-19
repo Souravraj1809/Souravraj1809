@@ -116,6 +116,7 @@ Backend Fundamentals
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Souravraj1809/Souravraj1809/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Souravraj1809/Souravraj1809/tree/master/0162-find-peak-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Backend Fundamentals
 | [0162-find-peak-element](https://github.com/Souravraj1809/Souravraj1809/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/Souravraj1809/Souravraj1809/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Backend Fundamentals
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
