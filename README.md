@@ -131,6 +131,7 @@ Backend Fundamentals
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Souravraj1809/Souravraj1809/tree/master/0367-valid-perfect-square) |
+| [2409-count-days-spent-together](https://github.com/Souravraj1809/Souravraj1809/tree/master/2409-count-days-spent-together) |
 ## Matrix
 |  |
 | ------- |
@@ -149,4 +150,8 @@ Backend Fundamentals
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## String
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/Souravraj1809/Souravraj1809/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
