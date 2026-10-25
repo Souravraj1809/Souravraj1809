@@ -117,6 +117,7 @@ Backend Fundamentals
 | [0162-find-peak-element](https://github.com/Souravraj1809/Souravraj1809/tree/master/0162-find-peak-element) |
 | [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
 | [1539-kth-missing-positive-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
@@ -147,20 +148,24 @@ Backend Fundamentals
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
 ## String
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
 | [2409-count-days-spent-together](https://github.com/Souravraj1809/Souravraj1809/tree/master/2409-count-days-spent-together) |
 ## Hash Table
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -169,12 +174,18 @@ Backend Fundamentals
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
