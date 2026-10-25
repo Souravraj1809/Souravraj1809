@@ -115,6 +115,7 @@ Backend Fundamentals
 | [0074-search-a-2d-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Souravraj1809/Souravraj1809/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Souravraj1809/Souravraj1809/tree/master/0162-find-peak-element) |
+| [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -144,14 +145,36 @@ Backend Fundamentals
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## String
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/Souravraj1809/Souravraj1809/tree/master/2409-count-days-spent-together) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
