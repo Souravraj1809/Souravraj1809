@@ -134,6 +134,7 @@ Backend Fundamentals
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Souravraj1809/Souravraj1809/tree/master/0367-valid-perfect-square) |
 | [2409-count-days-spent-together](https://github.com/Souravraj1809/Souravraj1809/tree/master/2409-count-days-spent-together) |
+| [3516-find-closest-person](https://github.com/Souravraj1809/Souravraj1809/tree/master/3516-find-closest-person) |
 ## Matrix
 |  |
 | ------- |
