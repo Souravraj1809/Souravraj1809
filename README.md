@@ -119,6 +119,7 @@ Backend Fundamentals
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Souravraj1809/Souravraj1809/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Souravraj1809/Souravraj1809/tree/master/1046-last-stone-weight) |
 | [1539-kth-missing-positive-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
@@ -161,6 +162,7 @@ Backend Fundamentals
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Souravraj1809/Souravraj1809/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Souravraj1809/Souravraj1809/tree/master/1046-last-stone-weight) |
 ## String
 |  |
 | ------- |
