@@ -123,6 +123,7 @@ Backend Fundamentals
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Souravraj1809/Souravraj1809/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ Backend Fundamentals
 | [0973-k-closest-points-to-origin](https://github.com/Souravraj1809/Souravraj1809/tree/master/0973-k-closest-points-to-origin) |
 | [2409-count-days-spent-together](https://github.com/Souravraj1809/Souravraj1809/tree/master/2409-count-days-spent-together) |
 | [3516-find-closest-person](https://github.com/Souravraj1809/Souravraj1809/tree/master/3516-find-closest-person) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Souravraj1809/Souravraj1809/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
 | ------- |
