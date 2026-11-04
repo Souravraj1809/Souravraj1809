@@ -164,6 +164,7 @@ Backend Fundamentals
 | [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Souravraj1809/Souravraj1809/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Souravraj1809/Souravraj1809/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -173,6 +174,7 @@ Backend Fundamentals
 | [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Souravraj1809/Souravraj1809/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Souravraj1809/Souravraj1809/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Souravraj1809/Souravraj1809/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -180,12 +182,14 @@ Backend Fundamentals
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Souravraj1809/Souravraj1809/tree/master/0767-reorganize-string) |
 | [2409-count-days-spent-together](https://github.com/Souravraj1809/Souravraj1809/tree/master/2409-count-days-spent-together) |
 ## Hash Table
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Souravraj1809/Souravraj1809/tree/master/0767-reorganize-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -201,6 +205,7 @@ Backend Fundamentals
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Souravraj1809/Souravraj1809/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -218,4 +223,8 @@ Backend Fundamentals
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Souravraj1809/Souravraj1809/tree/master/0973-k-closest-points-to-origin) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Souravraj1809/Souravraj1809/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
