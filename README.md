@@ -127,6 +127,7 @@ Backend Fundamentals
 | [0973-k-closest-points-to-origin](https://github.com/Souravraj1809/Souravraj1809/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Souravraj1809/Souravraj1809/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Souravraj1809/Souravraj1809/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Souravraj1809/Souravraj1809/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -138,6 +139,7 @@ Backend Fundamentals
 | [0367-valid-perfect-square](https://github.com/Souravraj1809/Souravraj1809/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Souravraj1809/Souravraj1809/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
@@ -167,6 +169,7 @@ Backend Fundamentals
 | [0767-reorganize-string](https://github.com/Souravraj1809/Souravraj1809/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Souravraj1809/Souravraj1809/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Souravraj1809/Souravraj1809/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
@@ -227,4 +230,8 @@ Backend Fundamentals
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/Souravraj1809/Souravraj1809/tree/master/0767-reorganize-string) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Souravraj1809/Souravraj1809/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
