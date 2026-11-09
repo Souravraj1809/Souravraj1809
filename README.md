@@ -124,6 +124,7 @@ Backend Fundamentals
 | [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Souravraj1809/Souravraj1809/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Souravraj1809/Souravraj1809/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Souravraj1809/Souravraj1809/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Souravraj1809/Souravraj1809/tree/master/1046-last-stone-weight) |
@@ -167,6 +168,7 @@ Backend Fundamentals
 | [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Souravraj1809/Souravraj1809/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Souravraj1809/Souravraj1809/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Souravraj1809/Souravraj1809/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Souravraj1809/Souravraj1809/tree/master/0973-k-closest-points-to-origin) |
@@ -179,6 +181,7 @@ Backend Fundamentals
 | [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Souravraj1809/Souravraj1809/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Souravraj1809/Souravraj1809/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Souravraj1809/Souravraj1809/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Souravraj1809/Souravraj1809/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Souravraj1809/Souravraj1809/tree/master/0973-k-closest-points-to-origin) |
@@ -194,6 +197,7 @@ Backend Fundamentals
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Souravraj1809/Souravraj1809/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Souravraj1809/Souravraj1809/tree/master/0767-reorganize-string) |
 ## Divide and Conquer
@@ -210,6 +214,7 @@ Backend Fundamentals
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Souravraj1809/Souravraj1809/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Souravraj1809/Souravraj1809/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Souravraj1809/Souravraj1809/tree/master/0767-reorganize-string) |
 ## Quickselect
@@ -233,6 +238,7 @@ Backend Fundamentals
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Souravraj1809/Souravraj1809/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Souravraj1809/Souravraj1809/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Souravraj1809/Souravraj1809/tree/master/0767-reorganize-string) |
 ## Two Pointers
 |  |
