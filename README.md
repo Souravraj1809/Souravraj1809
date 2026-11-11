@@ -149,6 +149,7 @@ Backend Fundamentals
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Souravraj1809/Souravraj1809/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Souravraj1809/Souravraj1809/tree/master/0973-k-closest-points-to-origin) |
 | [2409-count-days-spent-together](https://github.com/Souravraj1809/Souravraj1809/tree/master/2409-count-days-spent-together) |
 | [3516-find-closest-person](https://github.com/Souravraj1809/Souravraj1809/tree/master/3516-find-closest-person) |
@@ -163,6 +164,7 @@ Backend Fundamentals
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Souravraj1809/Souravraj1809/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -249,4 +251,12 @@ Backend Fundamentals
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Souravraj1809/Souravraj1809/tree/master/1480-running-sum-of-1d-array) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Souravraj1809/Souravraj1809/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
