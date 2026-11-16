@@ -197,6 +197,7 @@ Backend Fundamentals
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Souravraj1809/Souravraj1809/tree/master/0767-reorganize-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Souravraj1809/Souravraj1809/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Souravraj1809/Souravraj1809/tree/master/2409-count-days-spent-together) |
 ## Hash Table
 |  |
@@ -266,4 +267,8 @@ Backend Fundamentals
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Souravraj1809/Souravraj1809/tree/master/3364-minimum-positive-sum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Souravraj1809/Souravraj1809/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
