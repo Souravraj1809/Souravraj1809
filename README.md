@@ -197,6 +197,7 @@ Backend Fundamentals
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Souravraj1809/Souravraj1809/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Souravraj1809/Souravraj1809/tree/master/0767-reorganize-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Souravraj1809/Souravraj1809/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Souravraj1809/Souravraj1809/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Souravraj1809/Souravraj1809/tree/master/2409-count-days-spent-together) |
 ## Hash Table
